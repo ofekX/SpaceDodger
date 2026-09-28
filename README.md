@@ -1,8 +1,8 @@
-# 🚀 Exercise2 – 5 Lane Game (Kotlin / Android)
+# 🚀 SpaceDodger (Kotlin / Android)
 
-A lane-based endless runner built in **Kotlin** for Android.  
-Move your spaceship, dodge UFOs, collect coins, and fight for a spot in the **Top 10 leaderboard** 🏆  
-Leaderboard records also include a **map location** 🌍 (Google Maps).
+A five-lane space dodging game built in **Kotlin** for Android.  
+Steer your spaceship using **tilt or button controls**, dodge UFOs, collect coins, and compete for a place on the **Top 10 leaderboard**. 🏆  
+High scores are saved locally with their locations and displayed on an interactive **Google Map**. 📍
 
 ---
 
